@@ -1,0 +1,4 @@
+{
+    "server_host" : "api.mainnet-beta.solana.com",
+    "server_port" : 443,
+}

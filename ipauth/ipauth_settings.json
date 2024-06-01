@@ -1,0 +1,9 @@
+{
+    "server_host" : "api.mainnet-beta.solana.com",
+    "server_port" : 443,
+    "ws_host" : "api.mainnet-beta.solana.com",
+    "ws_port" : 443,
+    "valid_ips" : [
+        "0.0.0.0"
+    ]
+}
